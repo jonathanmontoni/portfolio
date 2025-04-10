@@ -104,8 +104,11 @@ body {
 }
 
 .home-img img {
-    max-width: 450px;
-    margin-right: -20px;
+    max-width: 350px;
+    margin-right: 40px;
+    border: 1px solid #0C1229;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.200);
     opacity: 0;
     animation: zoomIn 1s ease forwards, floatImage 4s ease-in-out infinite;
     animation-delay: 2s, 3s;
