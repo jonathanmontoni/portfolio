@@ -508,7 +508,7 @@ span {
     }
 }
 
-@media (max-width: 350px) {
+@media (max-width: 495px) {
     .home-img img {
         width: 90vw;
     }
