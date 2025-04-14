@@ -496,6 +496,10 @@ span {
     .portfolio-container {
         grid-template-columns: 1fr;
     }
+
+    .footer {
+        flex-direction: column-reverse;
+    }
 }
 
 @media (max-width: 450px) {
